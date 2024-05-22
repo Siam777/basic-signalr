@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "OQ0urvQCuM737P6orjqKM9nSEl+SEiF72obYnhOg5jM=",
+  "Source": "asp.net-core-signalR",
+  "BasePath": "_content/asp.net-core-signalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "asp.net-core-signalR\\wwwroot",
+      "Source": "asp.net-core-signalR",
+      "ContentRoot": "D:\\Personal\\asp.net\\asp.net-core-signalR\\wwwroot\\",
+      "BasePath": "_content/asp.net-core-signalR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Personal\\asp.net\\asp.net-core-signalR\\wwwroot\\js\\message.js",
+      "SourceId": "asp.net-core-signalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Personal\\asp.net\\asp.net-core-signalR\\wwwroot\\",
+      "BasePath": "_content/asp.net-core-signalR",
+      "RelativePath": "js/message.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\message.js"
+    },
+    {
+      "Identity": "D:\\Personal\\asp.net\\asp.net-core-signalR\\wwwroot\\lib\\signalr.js",
+      "SourceId": "asp.net-core-signalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Personal\\asp.net\\asp.net-core-signalR\\wwwroot\\",
+      "BasePath": "_content/asp.net-core-signalR",
+      "RelativePath": "lib/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\signalr.js"
+    }
+  ]
+}
